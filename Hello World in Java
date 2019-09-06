@@ -3,6 +3,6 @@ Class Hello
 {
   public static void main(String args[])
    {
-      printf("Hello Worl ");
+      System.out.println("Hello World ");
    }
  }
